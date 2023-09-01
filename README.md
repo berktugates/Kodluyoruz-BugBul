@@ -22,10 +22,10 @@ cd Kodluyoruz-BugBul
 
 |     İsim Soyisim    |   Kullandığı Dil   | Cevaplar |                        İletişim                        |
 |---------------------|--------------------|----------|--------------------------------------------------------|
-| Deniz Kaparlar      | C#                 | Evet     | [LinkedIn](https://www.linkedin.com/in/denizkaparlar)  |
-| Berktuğ Berke Ateş  | Java               | Hayır    | [LinkedIn](https://www.linkedin.com/in/berktugates)    |
-| Batuhan Erol        | Java               | Evet     | [LinkedIn](https://www.linkedin.com/in/batuhanerol)    |
-| Zeynep Asarkaya     | Python             | Evet     | [LinkedIn](https://www.linkedin.com/in/zeynep-asarkaya)|
+| Deniz Kaparlar      | C#                 | Hayır     | [LinkedIn](https://www.linkedin.com/in/denizkaparlar)  |
+| Berktuğ Berke Ateş  | Java               | [İncele](https://github.com/berktugates/Kodluyoruz-BugBul/tree/main/Oda%201%20-%20Java)    | [LinkedIn](https://www.linkedin.com/in/berktugates)    |
+| Batuhan Erol        | Java               | [İncele](https://github.com/berktugates/Kodluyoruz-BugBul/tree/main/Oda_4_Java/src)     | [LinkedIn](https://www.linkedin.com/in/batuhanerol)    |
+| Zeynep Asarkaya     | Python             | [İncele](https://github.com/berktugates/Kodluyoruz-BugBul/tree/main/oda2_Python)     | [LinkedIn](https://www.linkedin.com/in/zeynep-asarkaya)|
 
 ## Katkı
 
